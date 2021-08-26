@@ -9,5 +9,9 @@ public class Foo {
 		System.out.println("hello worlds");
 	}
 
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
 
 }
